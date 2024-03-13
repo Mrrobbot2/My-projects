@@ -1,0 +1,4 @@
+//The link to my group website named autocars
+
+http://mars.cs.ukzn.ac.za/~autocars/autocars3/admin.php //the admin side
+http://mars.cs.ukzn.ac.za/~autocars/autocars3/index.php //the user side
